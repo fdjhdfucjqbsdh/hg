@@ -1,4 +1,3 @@
-  <style>
 .overlay.is-active {
   background: rgba(0, 0, 0, 0.6);
   transition: all 0.3s ease;
@@ -57,4 +56,3 @@ svg:hover {
 .menu-link:hover {
   color: #4CAF50; /* Mengubah warna teks saat hover */
 }
-</style>
